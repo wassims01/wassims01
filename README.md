@@ -1,4 +1,4 @@
-## Hi there, My Name is Ouassim 👋
+<h1>Hi, I'm Josh, an <a href="https://www.linkedin.com/in/ouassim-aouadi-88a487351/">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
