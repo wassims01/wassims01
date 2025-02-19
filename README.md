@@ -10,8 +10,8 @@
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
  
-  - [Virtual Private Network](
-  - https://github.com/wassims01/ticket-lifecycle)
+  - [Virtual Private Network].
+  - [Virtual Private Network](https://github.com/wassims01/ticket-lifecycle)
 
 
 <h2>🤳Connect with me:</h2>
