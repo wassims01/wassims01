@@ -1,4 +1,4 @@
-## Hi there, MY NAME IS OUASSIM 👋
+## Hi there, My Name is Ouassim 👋
 
 <!--
 **wassims01/wassims01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
