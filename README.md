@@ -11,8 +11,7 @@
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
  
   - [Virtual Private Network].
-  - [Virtual Private Network](https://github.com/wassims01/Virtual Private Network)
-  - [Virtual Private Network](https://github.com/wassims01/osticket-prereqs)
+  - [Virtual Private Network](https://github.com/wassims01/Virtual-Private-Network)
 
 
 
